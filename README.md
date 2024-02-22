@@ -8,10 +8,11 @@ Below are instructions to set up the sofware and paths to run the routines in "i
 
 ## Prerequisites
 
-1. MATLAB supported C/C++ compiler: see www.mathworks.com/support/requirements/supported-compilers.html for installation
-2. Python (Tested with Versions > 3.10) [^+]
-3. BROJA_2PID package: can be downloaded from: https://github.com/Abzinger/BROJA_2PID. [^+]
-4. ecos package: can be installed as 'pip install ecos' [^+]
+1. MATLAB (Tested with Versions > 2023a)
+2. MATLAB supported C/C++ compiler: see www.mathworks.com/support/requirements/supported-compilers.html for installation
+3. Python (Tested with Versions > 3.10) [^+]
+4. BROJA_2PID package: can be downloaded from: https://github.com/Abzinger/BROJA_2PID. [^+]
+5. ecos package: can be installed as 'pip install ecos' [^+]
 
 ## Setup instructions
 1. Edit `ComputeInfoQuantatiesPackage/Code/startupInfoAnalysis.m`
